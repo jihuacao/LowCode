@@ -1,0 +1,3 @@
+[submodule "ProjectBase"]
+	path = ProjectBase
+	url = git@github.com:jihuacao/ProjectBase.git
