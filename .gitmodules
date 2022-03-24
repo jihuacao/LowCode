@@ -1,3 +1,6 @@
 [submodule "ProjectBase"]
 	path = ProjectBase
 	url = git@github.com:jihuacao/ProjectBase.git
+[submodule "LowCodeDesign"]
+	path = LowCodeDesign
+	url = git@github.com:jihuacao/LowCodeDesign.git
